@@ -9,7 +9,12 @@ Solder (ideally lead free)
 Soldering Iron
 Flux (rosin or resin, ideally liquid to prevent waste and easier soldering)
 Fumehood (most ideal)
+Copper Coated Sponge
 
 Most of these can be bought from AliExpress.
+
+When starting the soldering, ensure that the temperatures and time duration you use the soldering iron for is within recommended conditions. For example, some soldering iron tips have a certain recommended temperature range. If this is exceeded, the tip will either melt or start to oxidize, melting making it much harder to get proper solder onto a PCB, and oxidizing making it very difficult to get solder onto a PCB.
+
+In the case that your tip oxidizes, be sure to set the heating temperature within recommended conditions, and to clean it using tip tinner cleaner and copper coated sponge. 
 
 https://www.youtube.com/watch?v=MabbxcKlfss reference on how to build the stand.
