@@ -13,7 +13,7 @@ Copper Coated Sponge
 Tip Tinner Cleaner
 
 Most of these can be bought from AliExpress. The tools being used would look like the following below.
-<img width="800" height="500" alt="test" src="https://github.com/user-attachments/assets/e7d151cd-ff31-4449-b36b-f1e2db72d8e9" /> <br/>
+<img width="800" height="400" alt="test" src="https://github.com/user-attachments/assets/e7d151cd-ff31-4449-b36b-f1e2db72d8e9" /> <br/>
 
 When starting the soldering, ensure that the temperatures and time duration you use the soldering iron for is within recommended conditions. For example, some soldering iron tips have a certain recommended temperature range. If this is exceeded, the tip will either melt or start to oxidize, melting making it much harder to get proper solder onto a PCB, and oxidizing making it very difficult to get solder onto a PCB.
 
