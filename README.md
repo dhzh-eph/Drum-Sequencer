@@ -2,7 +2,8 @@
 ## Analog circuit of a drum sequencer, heavily inspired by Erica Synths and Moritz Klein DIY Drum Sequencer
 
 <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/8d3e95e4-e359-4663-b667-ac1a2f6d115d" /> Solder Stand <br/>
-We will be using this "helping hand magnifier led light with soldering stand" to help us with holding the pcb during soldering.
+We will be using this "helping hand magnifier led light with soldering stand" to help us with holding the pcb during soldering. <br/>
+https://www.youtube.com/watch?v=MabbxcKlfss reference on how to build the stand.
 
 Before starting soldering, ensure you have the following: <br/>
 Solder (ideally lead free) <br/>
@@ -23,5 +24,3 @@ In the case that your tip oxidizes, be sure to set the heating temperature withi
 <img width="4032" height="3024" alt="IMG_3745" src="https://github.com/user-attachments/assets/f62d983c-8c03-427a-8b92-ace94ba4ff6b" /> </br>
 After soldering it should look something like this. Unfortunately one of the four pins is heavily scratched due to accidental large amounts of solder originally sicking to 3 of the pins. I had to manually scrap it to get it off as the solder wasn't melting regardless of using flux, temperature and other tools.
 
-
-https://www.youtube.com/watch?v=MabbxcKlfss reference on how to build the stand.
