@@ -16,7 +16,8 @@ Tip Tinner Cleaner <br/>
 Most of these can be bought from Amazon, AliExpress or any other site. The tools being used would look like the following below.
 <img width="1600" height="1200" alt="test" src="https://github.com/user-attachments/assets/b5795099-1f47-4b8f-80bf-63cf9104754e" /> <br/>
 
-When  soldering, ensure that the temperatures and time duration you use the soldering iron for is within recommended conditions. For example, some soldering iron tips have a recommended temperature range of up to 300 degrees Celsius. If this is exceeded, the tip will either melt or start to oxidize, melting making it much harder to get proper solder onto a PCB, and oxidizing making it very difficult to get solder onto a PCB. <br/> Oxidizing may also permanently damage the tip to the point that solder will not stick to the tip. In the case that you're a beginner like me, buy a few extra tips to ensure smooth learning and project development.
+When  soldering, ensure that the temperatures and time duration you use the soldering iron for is within recommended conditions. For example, some soldering iron tips have a recommended temperature range of up to 300 degrees Celsius. If this is exceeded, the tip will either melt or start to oxidize, melting making it much harder to get proper solder onto a PCB, and oxidizing making it very difficult to get solder onto the iron tip.<br/>
+Oxidizing may also permanently damage the tip to the point that solder will not stick to the tip. In the case you're a beginner like me, buy a few extra tips to ensure smooth learning and timeline development for your projects.
 
 In the case that your tip oxidizes, be sure to set the heating temperature within recommended conditions, and to clean it using tip tinner cleaner and copper coated sponge. 
 
