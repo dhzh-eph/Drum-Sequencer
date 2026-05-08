@@ -25,3 +25,7 @@ In the case that your tip oxidizes, be sure to set the heating temperature withi
 <img width="4032" height="3024" alt="IMG_3745" src="https://github.com/user-attachments/assets/f62d983c-8c03-427a-8b92-ace94ba4ff6b" /> </br>
 After soldering it should look something like this. Unfortunately one of the four pins is heavily scratched due to accidental large amounts of solder originally sicking to 3 of the pins. I had to manually scrap it to get it off as the solder wasn't melting regardless of using flux, different temperatures and other tools.
 
+Note to self, definitely stick the breadboard onto the pcb first before soldering the female pin heads to the pcb. Otherwise it's very easy to have it misalign (also not really possible to unstick the breadboard once its touching the pcb).
+<img width="3024" height="4032" alt="IMG_3763" src="https://github.com/user-attachments/assets/bfbc8c44-55dd-4690-a36f-aaf0e8b0f1b9" />
+
+
