@@ -6,7 +6,7 @@ We will be using this to help us with holding the pcb during soldering. <br/>
 https://www.youtube.com/watch?v=MabbxcKlfss reference on how to build the stand.
 
 ##### What is soldering and why is it important?
-Soldering is the concept of gluing components together with conductive metals, often being operational amplifiers or integrated circuits being soldered to a PCB (printed circuit board). It is important, as it allows for customization of PCB's with different components, and also having a specific board that can serve a specific task (examples being AC to DC converters, or specific amplifiers).
+Soldering is the concept of gluing components together with conductive metals, examples being operational amplifiers or integrated circuits being soldered to a PCB (printed circuit board). It is important, as it allows for customization of PCB's with different components, and also allows for certain boards to serve specific tasks (examples being AC to DC converters, or specific amplifiers). Compared to a breadboard, the components on a PCB won't be at risk of falling out and requiring setup everytime.
 
 ##### Materials List
 Before starting, ensure you have the following: <br/>
@@ -21,12 +21,12 @@ Most of these can be bought from Amazon, AliExpress or any other site. The tools
 <img width="1200" height="800" alt="test" src="https://github.com/user-attachments/assets/b5795099-1f47-4b8f-80bf-63cf9104754e" /> <br/>
 
 ##### What are the components in the list used for?
-First, the soldering iron and solder are essentially our glue gun and glue stick. The soldering iron is used to melt solder, and the solder is used to help components "stick" to the pcb. As for flux, it allows for solder to flow and stick to the copper pads of the pcb. How it works is...
+First, the soldering iron and solder are essentially our glue gun and glue stick. The soldering iron is used to melt solder, and the solder is used to help components "stick" to the pcb through thermal bonding. As for flux, it allows for solder to flow and stick to the copper pads of the pcb. How it works is...
 
 For the fumehood, it extracts the fumes that are emitted during the melting of solder. Even though lead-free solder is less harmful than full lead, the fumes are still harmful to breathe in, so it's ideal to solder in a well ventilated place with a fumehood to pull the fumes away from you. The tip tinner is used to remove the soldering iron tip of all artifacts and debris. This allows for the fresh solder to pcb
 
 ##### Why lead-free solder over full leaded solder?
-Full leaded solder is actually fine, and more ideal for most cases of soldering. However, it is harmful to hold full leaded solder for a long duration of time, and there may be side effects from doing this. If you are working in a ventilated area with professional equipment, then leaded solder is preferred. This is because leaded solder takes a lower temperature to melt, and flows a lot more smoothly to copper pads when implemented with flux.
+Full leaded solder is actually fine, and more ideal for most cases of soldering. However, it is harmful to hold full leaded solder for a long duration of time, and there may be side effects from doing this. If you are working in a ventilated area with professional equipment, then leaded solder is preferred. This is because leaded solder takes a lower temperature to melt, and flows a lot more smoothly to copper pads when implemented with flux. Otherwise, lead free solder is better as it usually only contains tin and copper/silver which isn't as harmful to your health.
 
 When  soldering, ensure that the temperatures and time duration you use the soldering iron for is within recommended conditions. For example, some soldering iron tips have a recommended temperature range of up to 300 degrees Celsius. If this is exceeded, the tip will either melt or start to oxidize, melting making it much harder to get proper solder onto a PCB, and oxidizing making it very difficult to get solder onto the iron tip.<br/>
 Oxidizing may also permanently damage the tip to the point that solder will not stick to the tip. In the case you're a beginner like me, buy a few extra tips to ensure smooth learning and timeline development for your projects.
