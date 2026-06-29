@@ -1,12 +1,15 @@
 # Drum-Sequencer
-## Analog circuit of a drum sequencer, heavily inspired by Erica Synths and Moritz Klein DIY Drum Sequencer
+## Analog Drum Sequencer, heavily inspired by Erica Synths and Moritz Klein DIY Drum Sequencer
 
 <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/8d3e95e4-e359-4663-b667-ac1a2f6d115d" /> Solder Stand <br/>
-We will be using this "helping hand magnifier led light with soldering stand" to help us with holding the pcb during soldering. <br/>
+We will be using this to help us with holding the pcb during soldering. <br/>
 https://www.youtube.com/watch?v=MabbxcKlfss reference on how to build the stand.
 
+##### What is soldering and why is it important?
+Soldering is the concept of gluing components together with conductive metals, often being operational amplifiers or integrated circuits being soldered to a PCB (printed circuit board). It is important, as it allows for customization of PCB's with different components, and also having a specific board that can serve a specific task (examples being AC to DC converters, or specific amplifiers).
+
 ##### Materials List
-Before starting soldering, ensure you have the following: <br/>
+Before starting, ensure you have the following: <br/>
 Solder (ideally lead free) <br/>
 Soldering Iron <br/>
 Flux (rosin or resin, ideally liquid to prevent waste and easier soldering) <br/>
@@ -20,7 +23,7 @@ Most of these can be bought from Amazon, AliExpress or any other site. The tools
 ##### What are the components in the list used for?
 First, the soldering iron and solder are essentially our glue gun and glue stick. The soldering iron is used to melt solder, and the solder is used to help components "stick" to the pcb. As for flux, it allows for solder to flow and stick to the copper pads of the pcb. How it works is...
 
-For the fumehood, it extracts the fumes that are emitted during the melting of solder. Even though lead-free solder is less harmful than full lead, the fumes are still harmful to breathe in, so it's ideal to solder in a well ventilated place with a fumehood to pull the fumes away from you. The tip tinner is used to remove the soldering iron tip of all artifacts and debris. This allows for the fresh solder to
+For the fumehood, it extracts the fumes that are emitted during the melting of solder. Even though lead-free solder is less harmful than full lead, the fumes are still harmful to breathe in, so it's ideal to solder in a well ventilated place with a fumehood to pull the fumes away from you. The tip tinner is used to remove the soldering iron tip of all artifacts and debris. This allows for the fresh solder to pcb
 
 ##### Why lead-free solder over full leaded solder?
 Full leaded solder is actually fine, and more ideal for most cases of soldering. However, it is harmful to hold full leaded solder for a long duration of time, and there may be side effects from doing this. If you are working in a ventilated area with professional equipment, then leaded solder is preferred. This is because leaded solder takes a lower temperature to melt, and flows a lot more smoothly to copper pads when implemented with flux.
