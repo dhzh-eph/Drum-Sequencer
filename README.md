@@ -21,7 +21,9 @@ Most of these can be bought from Amazon, AliExpress or any other site. The tools
 <img width="1200" height="800" alt="test" src="https://github.com/user-attachments/assets/b5795099-1f47-4b8f-80bf-63cf9104754e" /> <br/>
 
 ##### What are the components in the list used for?
-First, the soldering iron and solder are essentially our glue gun and glue stick. The soldering iron is used to melt solder, and the solder is used to help components "stick" to the pcb through thermal bonding. As for flux, it allows for solder to flow and stick to the copper pads of the pcb. How it works is...
+The soldering iron and solder are essentially our glue gun and glue stick. The soldering iron is used to melt solder, and the solder is used to help components thermally bond to the pcb copper pads through thermal bonding. As for flux, it allows for solder to flow and stick to the copper pads of the pcb. 
+
+When solder is exposed to air, a small layer of oxidation is formed on top (kind of like rust, but not visible to the human eye). When flux is heated, it chemically reacts and removes the oxidation from the copper pads and componenent leads. This reduces surface tension which allows for the melted solder to flow and wet on the copper pad surface.
 
 For the fumehood, it extracts the fumes that are emitted during the melting of solder. Even though lead-free solder is less harmful than full lead, the fumes are still harmful to breathe in, so it's ideal to solder in a well ventilated place with a fumehood to pull the fumes away from you. The tip tinner is used to remove the soldering iron tip of all artifacts and debris. This allows for the fresh solder to pcb
 
