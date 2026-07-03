@@ -39,7 +39,10 @@ In the case that your tip oxidizes, be sure to set the heating temperature withi
 <img width="1250" height="1000" alt="IMG_3745" src="https://github.com/user-attachments/assets/f62d983c-8c03-427a-8b92-ace94ba4ff6b" /> </br>
 After soldering it should look something like this. Unfortunately one of the four pins is heavily scratched due to accidental large amounts of solder originally sicking to 3 of the pins. I had to manually scrap it to get it off as the solder wasn't melting regardless of using flux, different temperatures and other tools. Also, note that here I've applied too much flux, which makes it very messy. Note to self to apply less resin.
 
-Here, we now need to repair the traces, and we also need to re-add the solder mask, and do continuity tests with a multi meter to check for signal integrity. As such, copper wires are needed. The repair itself is fairly straightforward, using a 
+Here, we now need to repair the traces, and we also need to re-add the solder mask, and do continuity tests with a multi meter to check for signal integrity. As such, copper wires are needed. The repair itself is fairly straightforward, using the existing solder nodes and linking the ripped traces with copper wires, it can be repaired and look as such.
+
+<img width="2000" height="1000" alt="IMG_3955" src="https://github.com/user-attachments/assets/32ba14ab-9305-4afe-a879-896234c2da98" />
+<img width="2000" height="1000" alt="IMG_3956" src="https://github.com/user-attachments/assets/73014c33-1406-4816-8a47-d330b5cd605e" />
 
 Note to self, definitely stick the breadboard onto the pcb first before soldering the female pin heads to the pcb. Otherwise it's very easy to have it misalign (also not really possible to unstick the breadboard once its touching the pcb).
 <img width="1000" height="1250" alt="IMG_3763" src="https://github.com/user-attachments/assets/bfbc8c44-55dd-4690-a36f-aaf0e8b0f1b9" />
