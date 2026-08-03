@@ -37,9 +37,9 @@ In the case that your tip oxidizes, be sure to set the heating temperature withi
 
 <img width="1000" height="1250" alt="IMG_3746" src="https://github.com/user-attachments/assets/eb95ca61-e6ea-493a-bc4f-958bc96b4e91" />
 <img width="1250" height="1000" alt="IMG_3745" src="https://github.com/user-attachments/assets/f62d983c-8c03-427a-8b92-ace94ba4ff6b" /> </br>
-After soldering it should look something like this. Unfortunately one of the four pins is heavily scratched due to accidental large amounts of solder originally sicking to 3 of the pins. I had to manually scrap it to get it off as the solder wasn't melting regardless of using flux, different temperatures and other tools. Also, note that here I've applied too much flux, which makes it very messy. Note to self to apply less resin.
+After soldering it may look like this. Note that due to the rosin being used, it must require clean up as it is hardened. Unfortunately one of the four pins is heavily scratched due to accidental large amounts of solder originally sticking to 3 of the pins. I had to manually scrap it to get it off as the solder wasn't melting regardless of using flux, different temperatures and other tools.
 
-Here, we now need to repair the traces, and we also need to re-add the solder mask, and do continuity tests with a multi meter to check for signal integrity. As such, copper wires are needed. The repair itself is fairly straightforward, using the existing solder nodes and linking the ripped traces with copper wires, it can be repaired and look as such.
+Here, we now need to repair the traces, and we also need to re-add the solder mask, and do continuity tests with a multi meter to check for signal integrity. As such, copper wires are needed. The repair itself is fairly straightforward, using the existing solder nodes and linking the ripped traces with copper wires, it can be repaired and look as such. Also, testing with the multimeter after to confirm that there is no obscure values for resistance, it is shown to be around 2 to 3 ohms for each node.
 
 <img width="1250" height="1000" alt="IMG_3955" src="https://github.com/user-attachments/assets/32ba14ab-9305-4afe-a879-896234c2da98" />
 <img width="1250" height="1000" alt="IMG_3956" src="https://github.com/user-attachments/assets/73014c33-1406-4816-8a47-d330b5cd605e" />
