@@ -10,12 +10,12 @@ Soldering is the concept of gluing components together with conductive metals, e
 
 ##### Materials List
 Before starting, ensure you have the following: <br/>
-Solder (ideally lead free) <br/>
+Solder (lead or lead free) <br/>
 Soldering Iron <br/>
-Flux (rosin or resin, ideally liquid to prevent waste and easier soldering) <br/>
-Fumehood (most ideal) <br/>
-Tip Tinner Cleaner <br/>
-Copper Coated Sponge <br/>
+Flux (rosin or resin, ideally liquid flux to make soldering easier) <br/>
+Fumehood (most ideal for extracting toxic fumes) <br/>
+Tip Tinner Cleaner (keeps the tip clean) <br/>
+Copper Coated Sponge (removes excess solder) <br/>
 
 Most of these can be bought from Amazon, AliExpress or other sites. The tools being used would look like the following below.
 <img width="1200" height="800" alt="test" src="https://github.com/user-attachments/assets/b5795099-1f47-4b8f-80bf-63cf9104754e" /> <br/>
