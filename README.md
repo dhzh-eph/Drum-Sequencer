@@ -16,6 +16,7 @@ Flux (rosin or resin, ideally liquid flux to make soldering easier) <br/>
 Fumehood (most ideal for extracting toxic fumes) <br/>
 Tip Tinner Cleaner (keeps the tip clean) <br/>
 Copper Coated Sponge (removes excess solder) <br/>
+99% isopropyl alcohol <br/>
 
 Most of these can be bought from Amazon, AliExpress or other sites. The tools being used would look like the following below.
 <img width="1200" height="800" alt="test" src="https://github.com/user-attachments/assets/b5795099-1f47-4b8f-80bf-63cf9104754e" /> <br/>
@@ -23,7 +24,7 @@ Most of these can be bought from Amazon, AliExpress or other sites. The tools be
 ##### What are the components in the list used for?
 The soldering iron, solder, and flux can be viewed as a more complex version of a glue gun and glue stick. The soldering iron is used to melt solder, and the solder is used to connect external components in place on pcb copper pads through thermal bonding with the help of flux. As flux allows solder to actually flow and stick to the copper pads of the pcb, it is required for connections of components.
 
-When solder is exposed to air, a small layer of oxidation is formed on top (kind of like rust, but not visible to the human eye). When flux is heated, it chemically reacts and removes the oxidation from the copper pads and componenent leads. This reduces surface tension which allows for the melted solder to flow and wet on the copper pad surface.
+When solder or copper pads are exposed to air, a small layer of oxidation is formed on top (kind of like rust, but not visible to the human eye). When flux is heated, it chemically reacts and removes the oxidation from the copper pads and componenent leads. This reduces surface tension which allows for the melted solder to flow and wet on the copper pad surface. However, prior to applying flux one should often ensure to apply isopropyl alcohol (ideally 99%) so to remove dust, oil from hands, and to also remove flux residue after soldering as flux is often corrosive.
 
 For the fumehood, it extracts the fumes that are emitted during the melting of solder. Even though lead-free solder is less harmful than full lead, the fumes are still harmful to breathe in, so it's ideal to solder in a well ventilated place with a fumehood to pull the fumes away from you. The tip tinner is used to remove the soldering iron tip of all artifacts and debris. This allows for the fresh solder to pcb
 
