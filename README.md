@@ -50,11 +50,9 @@ Note to self, definitely stick the breadboard onto the pcb first before solderin
 <img width="500" height="650" alt="IMG_3763" src="https://github.com/user-attachments/assets/bfbc8c44-55dd-4690-a36f-aaf0e8b0f1b9" />
 
 After getting everything soldered on and placed properly, the first circuit to test will be a low pass filter (LPF).
-<img width="904" height="388" alt="Screenshot 2026-08-31 213839" src="https://github.com/user-attachments/assets/7838fe73-c6c7-46c4-95be-e94860fa54d2" />
+<img width="900" height="400" alt="Screenshot 2026-08-31 213839" src="https://github.com/user-attachments/assets/7838fe73-c6c7-46c4-95be-e94860fa54d2" />
 How this works can be interpreted using KCL. It can be seen as below.
-<img width="1000" height="500" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/96309c46-29dc-4fef-a457-88da5491e965" />
-
-
+<img width="1000" height="300" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/96309c46-29dc-4fef-a457-88da5491e965" />
 <img width="1000" height="500" alt="IMG_4164" src="https://github.com/user-attachments/assets/3ac33ba0-597f-4f9e-ae2f-24d27402247a" />
 Note that for the capacitor calculation segment, we are using Laplace's transform to convert from time to frequency. Recall that Laplace transform (time -> frequency) integrates a function across time, and for inverse Laplace transform (frequency -> time) integrates a function across frequency.
 
