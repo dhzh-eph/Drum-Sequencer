@@ -19,7 +19,7 @@ Copper Coated Sponge (removes excess solder) <br/>
 99% isopropyl alcohol <br/>
 
 Most of these can be bought from Amazon, AliExpress or other sites. The tools being used would look like the following below.
-<img width="650" height="350" alt="test" src="https://github.com/user-attachments/assets/b5795099-1f47-4b8f-80bf-63cf9104754e" /> <br/>
+<img width="550" height="350" alt="test" src="https://github.com/user-attachments/assets/b5795099-1f47-4b8f-80bf-63cf9104754e" /> <br/>
 
 ##### What are the components in the list used for?
 The soldering iron, solder, and flux can be viewed as a more complex version of a glue gun and glue stick. The soldering iron is used to melt solder, and the solder is used to connect external components in place on pcb copper pads through thermal bonding with the help of flux. As flux allows solder to actually flow and stick to the copper pads of the pcb, it is required for connections of components.
