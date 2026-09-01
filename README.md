@@ -57,7 +57,7 @@ How this works can be interpreted using KCL. It can be seen as below.
 Note that for the capacitor calculation segment, we are using Laplace's transform to convert from time to frequency. Recall that Laplace transform (time -> frequency) integrates a function across time, and for inverse Laplace transform (frequency -> time) integrates a function across frequency.
 
 As for a high pass filter (HPF), simply swapping the resistor and capacitor should do it. Likewise, using KCL can obtain the equations needed as such. <br/>
-<img width="400" height="1000" alt="IMG_4170" src="https://github.com/user-attachments/assets/5dbc8f36-128d-4849-b3cc-c8e16e987e37" /> <br/>
+<img width="500" height="1000" alt="IMG_4170" src="https://github.com/user-attachments/assets/5dbc8f36-128d-4849-b3cc-c8e16e987e37" /> <br/>
 The actual circuit would look like this on the breadboard.
 <img width="550" height="1000" alt="IMG_4172" src="https://github.com/user-attachments/assets/2335d569-ef11-40a6-b80a-33fd8943b8d6" />
 
