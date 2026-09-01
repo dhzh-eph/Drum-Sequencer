@@ -48,6 +48,15 @@ Here, we now need to repair the traces, and we also need to re-add the solder ma
 Note to self, definitely stick the breadboard onto the pcb first before soldering the female pin heads to the pcb. Otherwise it's very easy to have it misalign (also not really possible to unstick the breadboard once its touching the pcb).
 <img width="1000" height="1250" alt="IMG_3763" src="https://github.com/user-attachments/assets/bfbc8c44-55dd-4690-a36f-aaf0e8b0f1b9" />
 
+After getting everything soldered on and placed properly, the first circuit to test will be a low pass filter (LPF).
+<img width="904" height="388" alt="Screenshot 2026-08-31 213839" src="https://github.com/user-attachments/assets/7838fe73-c6c7-46c4-95be-e94860fa54d2" />
+How this works can be interpreted using KCL. It can be seen as below.
+<img width="4030" height="1354" alt="IMG_4163" src="https://github.com/user-attachments/assets/487126c8-afc8-4216-9ef8-df28e0e58357" />
+<img width="4030" height="1977" alt="IMG_4164" src="https://github.com/user-attachments/assets/3ac33ba0-597f-4f9e-ae2f-24d27402247a" />
+
+As for a high pass filter (HPF), simply swapping the resistor and capacitor should do it. If we want to cut off more frequencies for the LPF, we may need to consider a cascading circuit.
+
+
 
 
 
