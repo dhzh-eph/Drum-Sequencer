@@ -43,16 +43,16 @@ After soldering it may look like this. Note that due to the rosin being used, it
 
 Here, we now need to repair the traces, and we also need to re-add the solder mask, and do continuity tests with a multi meter to check for signal integrity. As such, copper wires are needed. The repair itself is fairly straightforward, using the existing solder nodes and linking the ripped traces with copper wires, it can be repaired and look as such. Also, testing with the multimeter after to confirm that there is no obscure values for resistance, it is shown to be around 2 to 3 ohms for each node.
 
-<img width="500" height="500" alt="IMG_3955" src="https://github.com/user-attachments/assets/32ba14ab-9305-4afe-a879-896234c2da98" />
-<img width="500" height="500" alt="IMG_3956" src="https://github.com/user-attachments/assets/73014c33-1406-4816-8a47-d330b5cd605e" />
+<img width="650" height="500" alt="IMG_3955" src="https://github.com/user-attachments/assets/32ba14ab-9305-4afe-a879-896234c2da98" />
+<img width="650" height="500" alt="IMG_3956" src="https://github.com/user-attachments/assets/73014c33-1406-4816-8a47-d330b5cd605e" />
 
 Note to self, definitely stick the breadboard onto the pcb first before soldering the female pin heads to the pcb. Otherwise it's very easy to have it misalign (also not really possible to unstick the breadboard once its touching the pcb).
-<img width="1000" height="1250" alt="IMG_3763" src="https://github.com/user-attachments/assets/bfbc8c44-55dd-4690-a36f-aaf0e8b0f1b9" />
+<img width="500" height="650" alt="IMG_3763" src="https://github.com/user-attachments/assets/bfbc8c44-55dd-4690-a36f-aaf0e8b0f1b9" />
 
 After getting everything soldered on and placed properly, the first circuit to test will be a low pass filter (LPF).
 <img width="904" height="388" alt="Screenshot 2026-08-31 213839" src="https://github.com/user-attachments/assets/7838fe73-c6c7-46c4-95be-e94860fa54d2" />
 How this works can be interpreted using KCL. It can be seen as below.
-<img width="4030" height="1354" alt="IMG_4163" src="https://github.com/user-attachments/assets/487126c8-afc8-4216-9ef8-df28e0e58357" />
+<img width="4030" height="1354" alt="Untitled design" src="https://github.com/user-attachments/assets/52a76fcb-9b19-43eb-b859-b50bc780e1ac" />
 <img width="4030" height="1977" alt="IMG_4164" src="https://github.com/user-attachments/assets/3ac33ba0-597f-4f9e-ae2f-24d27402247a" />
 Note that for the capacitor calculation segment, we are using Laplace's transform to convert from time to frequency. Recall that Laplace transform (time -> frequency) integrates a function across time, and for inverse Laplace transform (frequency -> time) integrates a function across frequency.
 
