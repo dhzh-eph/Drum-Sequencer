@@ -53,6 +53,7 @@ After getting everything soldered on and placed properly, the first circuit to t
 How this works can be interpreted using KCL. It can be seen as below.
 <img width="4030" height="1354" alt="IMG_4163" src="https://github.com/user-attachments/assets/487126c8-afc8-4216-9ef8-df28e0e58357" />
 <img width="4030" height="1977" alt="IMG_4164" src="https://github.com/user-attachments/assets/3ac33ba0-597f-4f9e-ae2f-24d27402247a" />
+Note that for the capacitor calculation segment, we are using Laplace's transform to convert from time to frequency. Recall that Laplace transform (time -> frequency) integrates a function across time, and for inverse Laplace transform (frequency -> time) integrates a function across frequency.
 
 As for a high pass filter (HPF), simply swapping the resistor and capacitor should do it. If we want to cut off more frequencies for the LPF, we may need to consider a cascading circuit.
 
