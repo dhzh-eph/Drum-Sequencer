@@ -19,7 +19,7 @@ Copper Coated Sponge (removes excess solder) <br/>
 99% isopropyl alcohol <br/>
 
 Most of these can be bought from Amazon, AliExpress or other sites. The tools being used would look like the following below. <br/>
-<img width="500" height="350" alt="test" src="https://github.com/user-attachments/assets/b5795099-1f47-4b8f-80bf-63cf9104754e" /> <br/>
+<img width="350" height="200" alt="test" src="https://github.com/user-attachments/assets/b5795099-1f47-4b8f-80bf-63cf9104754e" /> <br/>
 Note the photos from here on out are going to look a bit weird because I'm manually adjusting the widths and heights.
 
 ##### What are the components in the list used for?
