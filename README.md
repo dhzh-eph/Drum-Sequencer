@@ -1,7 +1,7 @@
 # Drum-Sequencer
 ## Analog Drum Sequencer, heavily inspired by Erica Synths and Moritz Klein DIY Drum Sequencer
 
-<img width="150" height="350" alt="image" src="https://github.com/user-attachments/assets/8d3e95e4-e359-4663-b667-ac1a2f6d115d" /> Solder Stand <br/>
+<img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/8d3e95e4-e359-4663-b667-ac1a2f6d115d" /> Solder Stand <br/>
 We will be using this to help us with holding the pcb during soldering. <br/>
 https://www.youtube.com/watch?v=MabbxcKlfss reference on how to build the stand.
 
