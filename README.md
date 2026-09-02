@@ -55,9 +55,9 @@ How this works can be interpreted using KCL. It can be seen as below. <br/>
 Note that for the capacitor calculation segment, we are using Laplace's transform to convert from time to frequency. Recall that Laplace transform (time -> frequency) integrates a function across time, and for inverse Laplace transform (frequency -> time) integrates a function across frequency.
 
 As for a high pass filter (HPF), simply swapping the resistor and capacitor should do it. Likewise, using KCL can obtain the equations needed as such. <br/>
-<img width="250" height="700" alt="IMG_4170" src="https://github.com/user-attachments/assets/5dbc8f36-128d-4849-b3cc-c8e16e987e37" /> <br/>
+<img width="250" height="600" alt="IMG_4170" src="https://github.com/user-attachments/assets/5dbc8f36-128d-4849-b3cc-c8e16e987e37" /> <br/>
 The actual circuit would look like this on the breadboard. <br/>
-<img width="300" height="700" alt="IMG_4172" src="https://github.com/user-attachments/assets/2335d569-ef11-40a6-b80a-33fd8943b8d6" /> <br/>
+<img width="300" height="550" alt="IMG_4172" src="https://github.com/user-attachments/assets/2335d569-ef11-40a6-b80a-33fd8943b8d6" /> <br/>
 
 If we want to cut off more frequencies for LPF or HPF, we may need to consider a cascading circuit. We will need to use Op-Amps for this however, to serve as a buffer and prevent the RC circuits from loading each other. As such, the TL072 will be used. To summarize a few of the key points of advantages of TL072 are that it has a high slew rate, low offset voltage, low noise, and more. <br/>
 The details can be checked here --> https://www.ti.com/lit/ds/symlink/tl072.pdf <br/>
