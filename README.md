@@ -63,6 +63,10 @@ The actual circuit would look like this on the breadboard.
 
 If we want to cut off more frequencies for LPF or HPF, we may need to consider a cascading circuit. We will need to use Op-Amps for this however, to serve as a buffer and prevent the RC circuits from loading each other. As such, the TL072 will be used. To summarize a few of the key points of advantages of TL072 are that it has a high slew rate, low offset voltage, low noise, and more. <br/>
 The details can be checked here --> https://www.ti.com/lit/ds/symlink/tl072.pdf <br/>
+
+To start designing the circuit, we must first analyze the pinout. <br/>
+<img width="1746" height="1274" alt="pinout" src="https://github.com/user-attachments/assets/dded409f-b46c-4a9a-8f15-2e7f447f48a8" /> <br/>
+
 Why not say a LM741 op amp? It's because it's outdated as it has a slow slew rate, and it's requirements are heftier than the TL072.
 
 
