@@ -48,10 +48,10 @@ Here, we now need to repair the traces, and we also need to re-add the solder ma
 Note to self, definitely stick the breadboard onto the pcb first before soldering the female pin heads to the pcb. Otherwise it's very easy to have it misalign (also not really possible to unstick the breadboard once its touching the pcb).
 
 After getting everything soldered on and placed properly, the first circuit to test will be a low pass filter (LPF).
-<img width="900" height="400" alt="Screenshot 2026-08-31 213839" src="https://github.com/user-attachments/assets/7838fe73-c6c7-46c4-95be-e94860fa54d2" />
+<img width="500" height="200" alt="Screenshot 2026-08-31 213839" src="https://github.com/user-attachments/assets/7838fe73-c6c7-46c4-95be-e94860fa54d2" />
 How this works can be interpreted using KCL. It can be seen as below.
-<img width="1000" height="300" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/96309c46-29dc-4fef-a457-88da5491e965" />
-<img width="1000" height="500" alt="IMG_4164" src="https://github.com/user-attachments/assets/3ac33ba0-597f-4f9e-ae2f-24d27402247a" />
+<img width="600" height="150" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/96309c46-29dc-4fef-a457-88da5491e965" />
+<img width="600" height="250" alt="IMG_4164" src="https://github.com/user-attachments/assets/3ac33ba0-597f-4f9e-ae2f-24d27402247a" />
 Note that for the capacitor calculation segment, we are using Laplace's transform to convert from time to frequency. Recall that Laplace transform (time -> frequency) integrates a function across time, and for inverse Laplace transform (frequency -> time) integrates a function across frequency.
 
 As for a high pass filter (HPF), simply swapping the resistor and capacitor should do it. Likewise, using KCL can obtain the equations needed as such. <br/>
