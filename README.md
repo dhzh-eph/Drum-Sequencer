@@ -61,7 +61,9 @@ As for a high pass filter (HPF), simply swapping the resistor and capacitor shou
 The actual circuit would look like this on the breadboard.
 <img width="550" height="1000" alt="IMG_4172" src="https://github.com/user-attachments/assets/2335d569-ef11-40a6-b80a-33fd8943b8d6" />
 
-If we want to cut off more frequencies for the LPF, we may need to consider a cascading circuit. We will need to use Op-Amps for this however, to serve as a buffer and prevent the RC circuits from loading each other. As such, the TL072 will be used. 
+If we want to cut off more frequencies for LPF or HPF, we may need to consider a cascading circuit. We will need to use Op-Amps for this however, to serve as a buffer and prevent the RC circuits from loading each other. As such, the TL072 will be used. To summarize the key points of advantages of TL072 are that it has a high slew rate, low offset voltage, 
+
+The details can be checked here --> https://www.ti.com/lit/ds/symlink/tl072.pdf
 
 Why not say a LM741 op amp? It's because it's outdated as it has a slow slew rate, and it's requirements are heftier than the TL072.
 
