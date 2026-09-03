@@ -67,7 +67,7 @@ To start designing the circuit, we must first analyze the pinout. <br/>
 
 Next, considering some configurations with reference to https://www.youtube.com/watch?v=aR9ILhbG4AE can allow us to construct the needed circuit. Since we want to maintain the phase, we will use a non-inverting amplifier as it does not invert the phase of the signal and also allows a gain factor.
 
-Why not say a LM741 op amp? It's because it's outdated as it has a slow slew rate, and it's requirements are heftier than the TL072.
+Why not say a LM741 op amp? It's because it's outdated as it has a slow slew rate, and it's requirements are heftier than the TL072. We will also ground decoupling capacitors parallel to +VCC and -VCC, as this will allow AC to take the path of least resistance to ground and remove any extra noise while preventing DC through the capacitor but still flowing through the core circuit.
 
 
 
