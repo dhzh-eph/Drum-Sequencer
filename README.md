@@ -69,6 +69,8 @@ Next, considering some configurations with reference to https://www.youtube.com/
 
 Why not say a LM741 op amp? It's because it's outdated as it has a slow slew rate, and it's requirements are heftier than the TL072. We will also ground decoupling capacitors parallel to +VCC and -VCC, as this will allow AC to take the path of least resistance to ground and remove any extra noise while preventing DC through the capacitor but still flowing through the core circuit.
 
+As this circuit requires two capacitors and two resistors, it is also known as a Sallen Key Circuit. This could be explained here https://www.youtube.com/watch?v=I9pc29rCdEM and the following circuit would look something like this.
+
 
 
 
