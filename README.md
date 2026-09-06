@@ -78,10 +78,9 @@ Here is the analysis <br/>
 <img width="550" height="300" alt="IMG_4206" src="https://github.com/user-attachments/assets/65d023a0-90bc-4cd8-aafc-855f41a879a9" /> When frequency is high <br/>
 <img width="550" height="300" alt="IMG_4208" src="https://github.com/user-attachments/assets/ba1544e8-a4d4-4151-b904-317bfbb25434" /> When frequency is low <br/>
 
+Lastly the gain factor is as such. <img width="2300" height="1747" alt="IMG_4210" src="https://github.com/user-attachments/assets/132adcf2-5254-46e8-abe2-62ee61ed0cf0" /> <br/>
 
-
-
-Both potentiometers would have to be rotated at the same value, otherwise the Q factor could drop too low (dual ganged potentiometer is good for this). Q is related to the ratio between the two resistors.
+Both potentiometers would have to be rotated at the same value, otherwise the Q factor could drop too low (dual ganged potentiometer is good for this). Q is related to the ratio between the two resistors. Here we will be 4700 for R3 and 5100 for R4 so that the gain isn't too extreme.
 
 
 
