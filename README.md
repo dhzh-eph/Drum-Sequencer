@@ -74,9 +74,9 @@ As this circuit requires two capacitors and two resistors for the filtering, it 
 This could be explained here https://www.youtube.com/watch?v=I9pc29rCdEM and the following circuit would look something like this. <br/>
 <img width="400" height="360" alt="test" src="https://github.com/user-attachments/assets/c375433b-f1b8-4bd4-8ffe-df5a07bc91c3" /> <br/>
 Here is the analysis <br/>
-<img width="450" height="250" alt="IMG_4204" src="https://github.com/user-attachments/assets/48cb97d7-0793-4b6c-ab7a-1093885a18a5" />
-<img width="550" height="300" alt="IMG_4206" src="https://github.com/user-attachments/assets/65d023a0-90bc-4cd8-aafc-855f41a879a9" />
-<img width="550" height="300" alt="IMG_4208" src="https://github.com/user-attachments/assets/ba1544e8-a4d4-4151-b904-317bfbb25434" />
+<img width="450" height="250" alt="IMG_4204" src="https://github.com/user-attachments/assets/48cb97d7-0793-4b6c-ab7a-1093885a18a5" /> The two core segments of the circuit <br/>
+<img width="550" height="300" alt="IMG_4206" src="https://github.com/user-attachments/assets/65d023a0-90bc-4cd8-aafc-855f41a879a9" /> When frequency is high <br/>
+<img width="550" height="300" alt="IMG_4208" src="https://github.com/user-attachments/assets/ba1544e8-a4d4-4151-b904-317bfbb25434" /> When frequency is low <br/>
 
 
 
