@@ -72,7 +72,16 @@ Why not say a LM741 op amp? It's because it's an older version which has low sle
 As this circuit requires two capacitors and two resistors for the filtering, it is also known as a Sallen Key Circuit. We also need gain, and hence there are two resistors connected as such to the inverting terminal. One may wonder why the capacitor is connected from the input to the output. This is because at low frequencies the capacitor will function as a open circuit, which then means that the signal will pass through the two resistors into the non-inverting terminal with no voltage drop as ideal op-amp draws no current into input. As the signal increases it's frequency cutoff, the capacitor takes energy from the output into the non-inverting terminal to keep the passband flat and sharpen filter's response. At high frequencies the grounded capacitor shunts the signal and the feedback capacitor maintains the gain.
 
 This could be explained here https://www.youtube.com/watch?v=I9pc29rCdEM and the following circuit would look something like this. <br/>
-<img width="400" height="360" alt="test" src="https://github.com/user-attachments/assets/c375433b-f1b8-4bd4-8ffe-df5a07bc91c3" />
+<img width="400" height="360" alt="test" src="https://github.com/user-attachments/assets/c375433b-f1b8-4bd4-8ffe-df5a07bc91c3" /> <br/>
+Here is the analysis <br/>
+<img width="2572" height="1641" alt="IMG_4204" src="https://github.com/user-attachments/assets/48cb97d7-0793-4b6c-ab7a-1093885a18a5" />
+<img width="3526" height="1626" alt="IMG_4206" src="https://github.com/user-attachments/assets/65d023a0-90bc-4cd8-aafc-855f41a879a9" />
+<img width="3022" height="1496" alt="IMG_4208" src="https://github.com/user-attachments/assets/ba1544e8-a4d4-4151-b904-317bfbb25434" />
+
+
+
+
+Both potentiometers would have to be rotated at the same value, otherwise the Q factor could drop too low (dual ganged potentiometer is good for this). Q is related to the ratio between the two resistors.
 
 
 
