@@ -82,6 +82,7 @@ Lastly the gain factor is as such. <img width="2300" height="1747" alt="IMG_4210
 
 Both potentiometers would have to be rotated at the same value, otherwise the Q factor could drop too low (dual ganged potentiometer is good for this). Q is related to the ratio between the two resistors. Here we will be 4700 for R3 and 5100 for R4 so that the gain isn't too extreme.
 
+https://www.youtube.com/watch?v=YNoj9Rrw_VM <-- checking for filter integrity, as passive filters cause the volume to decrease (voltage in this case)
 
 
 
