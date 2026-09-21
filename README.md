@@ -84,7 +84,9 @@ Both potentiometers would have to be rotated at the same value, otherwise the Q 
 
 https://www.youtube.com/watch?v=YNoj9Rrw_VM <-- checking for filter integrity, as passive filters cause the volume to decrease (voltage in this case)
 
-<img width="269" height="439" alt="image" src="https://github.com/user-attachments/assets/493cc7cc-cc2d-4106-b937-d996ba53f952" />
+<img width="2131" height="2071" alt="image" src="https://github.com/user-attachments/assets/0259b219-d88a-40a6-87e6-babf50963c4a" />  <br/>
+https://www.componentsinfo.com/tl074-pinout-equivalent/
+
 
 
 
