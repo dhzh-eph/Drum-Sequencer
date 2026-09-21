@@ -84,6 +84,7 @@ Both potentiometers would have to be rotated at the same value, otherwise the Q 
 
 https://www.youtube.com/watch?v=YNoj9Rrw_VM <-- checking for filter integrity, as passive filters cause the volume to decrease (voltage in this case)
 
+<img width="269" height="439" alt="image" src="https://github.com/user-attachments/assets/493cc7cc-cc2d-4106-b937-d996ba53f952" />
 
 
 
