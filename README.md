@@ -1,10 +1,6 @@
 # Drum-Sequencer
 ## Analog Drum Sequencer, heavily inspired by Erica Synths and Moritz Klein DIY Drum Sequencer
 
-<img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/8d3e95e4-e359-4663-b667-ac1a2f6d115d" /> Solder Stand <br/>
-We will be using this to help us with holding the pcb during soldering. <br/>
-https://www.youtube.com/watch?v=MabbxcKlfss reference on how to build the stand.
-
 ##### What is soldering and why is it important?
 Soldering is the concept of gluing components together with conductive metals, examples being operational amplifiers or integrated circuits being soldered to a PCB (printed circuit board). It is important, as it allows for customization of PCB's with different components, and also allows for certain boards to serve specific tasks (examples being AC to DC converters, or specific amplifiers). Compared to a breadboard, the components on a PCB won't be at risk of falling out and requiring setup everytime.
 
@@ -36,6 +32,10 @@ When  soldering, ensure that the temperatures and time duration you use the sold
 Oxidizing may also permanently damage the tip to the point that solder will not stick to the tip. In the case you're a beginner like me, buy a few extra tips to ensure smooth learning and timeline development for your projects.
 
 In the case that your tip oxidizes, be sure to set the heating temperature within recommended conditions, and to clean it using tip tinner cleaner and copper coated sponge. 
+
+<img width="150" height="250" alt="image" src="https://github.com/user-attachments/assets/8d3e95e4-e359-4663-b667-ac1a2f6d115d" /> Solder Stand <br/>
+We will be using this to help us with holding the pcb during soldering. <br/>
+https://www.youtube.com/watch?v=MabbxcKlfss reference on how to build the stand.
 
 <img width="300" height="400" alt="IMG_3746" src="https://github.com/user-attachments/assets/eb95ca61-e6ea-493a-bc4f-958bc96b4e91" />
 <img width="400" height="300" alt="IMG_3745" src="https://github.com/user-attachments/assets/f62d983c-8c03-427a-8b92-ace94ba4ff6b" /> </br>
